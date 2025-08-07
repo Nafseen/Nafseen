@@ -1,7 +1,7 @@
 # 🤓 Hey! Nice to see you.
 
 Welcome to my page!  
-I'm Nafsee, aspiring Web Developer  from 🇫🇷 Dhaka, Bangladesh .
+I'm Nafseen, aspiring Web Developer  from 🇧🇩 Dhaka, Bangladesh .
 
 ## 🛠️ Things I code with
 
